@@ -1,0 +1,2 @@
+DEBUG = True
+MY_API_KEY = "3fba2dc6ab624e43882fcd1f4d316838"
